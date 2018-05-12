@@ -1,0 +1,44 @@
+_repo: Frigid-Fracas_31008
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: In any status-hungry culture, the level a man is assigned depends on
+  what people think he is-not on what he is. And that, of course, means that only
+  the deliberately phony has real status!
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Science fiction'
+title: Frigid Fracas
+url: http://www.gutenberg.org/ebooks/31008
